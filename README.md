@@ -2,12 +2,6 @@
 
 Welcome to **NK Fitness**, a modern and user-friendly gym website designed to promote fitness services and motivate individuals to achieve their dream physique. This site showcases our services, membership plans, client reviews, and more.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ## Features
 
